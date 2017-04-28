@@ -1,0 +1,5 @@
+
+osquid:UselessImportCheck"FRemove this unused import 'com.zubko.liker.model.common.DribbbleKeys'.(·ëÖ¬8ë¤ˆ»+
+_squid:S1854"DRemove this useless assignment to local variable "likeShotResponse".(åÌ’J8’ÇÛƒ»+
+Psquid:S1481"5Remove this unused "likeShotResponse" local variable.(åÌ’J8’ÇÛƒ»+
+…squid:S1488"iImmediately return this expression instead of assigning it to the temporary variable "userShotsResponse".(„Õïœ8Á›èƒ»+
